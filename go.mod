@@ -1,6 +1,6 @@
 module github.com/repooooo/email-service
 
-go 1.22
+go 1.23
 
 require github.com/ilyakaznacheev/cleanenv v1.5.0
 
